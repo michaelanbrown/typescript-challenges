@@ -11,3 +11,11 @@ function addOrConcat(a: number | string, b: number | string): number | string {
   
   console.log(addOrConcat(1, 2)); // Output: 3
   console.log(addOrConcat('Hello', 'TypeScript')); // Output: HelloTypeScript
+
+function multiplyOrUndefined(a: number | string, b: number | string): number | undefined {
+  if (typeof a !== 'number' || typeof b !== 'number') {
+    return undefined
+  } else {
+    return a * b
+  }
+}
