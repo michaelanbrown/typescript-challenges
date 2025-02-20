@@ -16,3 +16,5 @@ enum DaysOfWeek {
   }
   
   console.log(getDayFullName(DaysOfWeek.Sunday)); // Output: Sunday
+
+// Make enums for months in a year
