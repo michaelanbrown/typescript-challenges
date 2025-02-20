@@ -37,3 +37,5 @@ enum MonthsInAYear {
 function getMonthByNumber(month: MonthsInAYear): string {
   return month;
 }
+
+console.log(getMonthByNumber(MonthsInAYear.Ten)); // Output: October
