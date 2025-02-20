@@ -33,3 +33,7 @@ enum MonthsInAYear {
   Eleven = 'November',
   Twelve = 'December'
 }
+
+function getMonthByNumber(month: MonthsInAYear): string {
+  return month;
+}
