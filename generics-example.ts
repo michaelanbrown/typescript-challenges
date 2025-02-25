@@ -16,3 +16,7 @@ function swap<T>(a: T, b: T): [T, T] {
 let result1: string = example<string>("EXAMPLE");
 let result2: number = example<number>(740);
 let result3: boolean = example<boolean>(false);
+
+console.log(result1);
+console.log(result2);
+console.log(result3);
