@@ -7,3 +7,8 @@ function swap<T>(a: T, b: T): [T, T] {
   
   console.log(swap<number>(1, 2)); // Output: [2, 1]
   console.log(swap<string>('hello', 'world')); // Output: ["world", "hello"]
+
+
+  function example<T>(x: T): T {
+    return x;
+}
