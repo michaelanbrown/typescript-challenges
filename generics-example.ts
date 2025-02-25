@@ -12,3 +12,7 @@ function swap<T>(a: T, b: T): [T, T] {
   function example<T>(x: T): T {
     return x;
 }
+
+let result1: string = example<string>("EXAMPLE");
+let result2: number = example<number>(740);
+let result3: boolean = example<boolean>(false);
