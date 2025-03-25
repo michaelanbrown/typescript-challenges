@@ -17,3 +17,5 @@
 // 8. Throttle
 
 // 9. Expands an array at the specified level
+
+// 10. Automatically execute Generator and return final Promise
