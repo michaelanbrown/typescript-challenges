@@ -4,4 +4,4 @@
 
 // 2. Get key type
 
-// 3. 
+// 3. Get condition type
