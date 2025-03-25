@@ -7,3 +7,5 @@
 // 3. Get condition type
 
 // 4. Indexed access types
+
+// 5. Type elimination
