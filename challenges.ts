@@ -2,4 +2,6 @@
 
 // 1. Get variable type
 
-// 2. 
+// 2. Get key type
+
+// 3. 
