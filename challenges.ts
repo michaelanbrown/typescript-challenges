@@ -5,3 +5,5 @@
 // 2. Get key type
 
 // 3. Get condition type
+
+// 4. Indexed access types
