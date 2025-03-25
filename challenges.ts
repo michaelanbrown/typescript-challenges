@@ -13,3 +13,5 @@
 // 6. Built-in utility types
 
 // 7. Debounce
+
+// 8. Throttle
