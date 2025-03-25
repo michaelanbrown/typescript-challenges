@@ -9,3 +9,5 @@
 // 4. Indexed access types
 
 // 5. Type elimination
+
+// 6. Built-in utility types
